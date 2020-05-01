@@ -139,3 +139,23 @@ Per chi fa l'extra credit, includere anche `apps` e ulteriori immagini.
 Per chi crea nuovi modelli, includere anche le directory con i nuovo modelli creati.
 Il file va chiamato `<cognome>_<nome>_<numero_di_matricola>.zip` 
 e vanno escluse tutte le altre directory. Inviare il file su Google Classroom.
+
+## Risultati finali
+
+Di seguito alcune immagini dei risultati ottenuti nell'homework:
+![terrain](https://github.com/edu-rinaldi/Procedural-Computer-Graphics-HW3-Sapienza/blob/master/out/01_terrain.png)
+
+![displacement](https://github.com/edu-rinaldi/Procedural-Computer-Graphics-HW3-Sapienza/blob/master/out/02_displacement.png)
+
+![hair sphere](https://github.com/edu-rinaldi/Procedural-Computer-Graphics-HW3-Sapienza/blob/master/out/03_hair1.png)
+
+![short hair bunny1](https://github.com/edu-rinaldi/Procedural-Computer-Graphics-HW3-Sapienza/blob/master/out/03_hair2.png)
+
+![short hair bunny2](https://github.com/edu-rinaldi/Procedural-Computer-Graphics-HW3-Sapienza/blob/master/out/03_hair3.png)
+
+![long hair bunny3](https://github.com/edu-rinaldi/Procedural-Computer-Graphics-HW3-Sapienza/blob/master/out/03_hair4.png)
+
+![grass](https://github.com/edu-rinaldi/Procedural-Computer-Graphics-HW3-Sapienza/blob/master/out/04_grass.png)
+
+
+Ricordo che l'homework si basa sulla libreria Yocto.
